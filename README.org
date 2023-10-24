@@ -1,0 +1,6 @@
+#+title: README
+** About !! WORK IN PROGRESS !!
+Personal and Resume site, built with:
+- Hugo
+- Emacs Org-Mode
+- TailwindCSS
