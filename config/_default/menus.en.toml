@@ -11,6 +11,11 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
   name = "Topics"
   pageRef = "topics"
   weight = 10
@@ -21,27 +26,22 @@
   weight = 10
 
 [[main]]
-  name = "Github"
-  pre = "github"
-  url = "https://github.com/JohnCarterGonzalez"
-  weight = 30
-
-[[main]]
-  name = "example sub-menu 2"
-  parent = "Parent"
-  pageRef = "posts"
-  weight = 20
-
-[[subnavigation]]
-  name = "An interesting topic"
-  pageRef = "tags/interesting-topic"
+  name = "Resume"
+  pageRef = "resume"
   weight = 10
 
-[[subnavigation]]
-  name = "My Awesome Category"
-  pre = "github"
-  pageRef = "categories/awesome"
-  weight = 20
+# [[main]]
+#   name = "Github"
+#   pre = "github"
+#   url = "https://github.com/JohnCarterGonzalez"
+#   weight = 30
+
+
+# [[subnavigation]]
+#   name = "My Awesome Category"
+#   pre = "github"
+#   pageRef = "categories/awesome"
+#   weight = 20
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
