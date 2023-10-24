@@ -1,21 +1,21 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "A Digital Odyssey"
+title = "A Doxology"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
-  secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
-  copyright = "Copy, _right?_ :thinking_face:"
+  # logo = "loom.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Blog for Developing Technical and Personal Excellence"
+  copyright = ":copyright: John Carter Gonzalez"
 
 [author]
   name = "John Carter Gonzalez"
-  image = "img/blowfish_logo.png"
+  image = "loom.png"
   headline = "Digital Frontiersman, Developing a Hub for Insights & Discovery"
   bio = "Husband, Developer"
   links = [
