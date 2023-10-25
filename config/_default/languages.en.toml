@@ -8,8 +8,8 @@ title = "A Doxology"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "loom.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  # logo = "images/loom.png"
+  secondaryLogo = "images/loom.png"
   description = "Blog for Developing Technical and Personal Excellence"
   copyright = ":copyright: John Carter Gonzalez"
 
