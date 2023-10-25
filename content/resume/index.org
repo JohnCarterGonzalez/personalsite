@@ -65,8 +65,3 @@ Description: myTorrent represents a BitTorrent client, a peer-to-peer protocol f
 *** Tcp-Async-Tokio
 Description: Tcp-Async-Tokio, affectionately named the "Redis-lite" project, was conceptualized and developed as a result of an extensive professional engagement with Redis. The project's primary objective is to attain an advanced comprehension of TCP and the Redis protocol. It features the implementation of essential functions, such as the "Ping/Pong" request/response cycle, as well as echo and GET/SET response cycles. The project demonstrates a fusion of imperative and declarative coding styles, engineered in Rust. A commitment to coding principles is evident through a DRY (Don't Repeat Yourself) approach, rigorous 100% test-driven development (TDD), and adherence to Conventional Commit and Git strategies. This project depends on Rust,, and rustc 1.73.0 . For further details and exploration, please visit the project on GitHub: Tcp-Async-Tokio.
 
-** References
-| Business           | Contact       | Preferred Method of Contact    |
-|--------------------+---------------+--------------------------------|
-| Costa Rica Refined | Pascal Rey    | email: pascalrey1955@gmail.com |
-| AFHC               | Alec Williams | phone: (360) 485 3414          |
