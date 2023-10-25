@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "A Doxology"
+title = "A Doxology."
 
 [params]
   displayName = "EN"
