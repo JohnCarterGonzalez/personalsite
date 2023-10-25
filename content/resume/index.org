@@ -1,0 +1,72 @@
+#+TITLE: Resume
+#+author: JohnCarter Gonzalez
+#+options: toc:nil num:nil title:nil author:nil timestamp:nil html-style:nil prop:nil
+#+latex_compiler: xelatex
+#+latex_class: article
+#+latex_class_options: [letterpaper,10pt]
+#+latex_header: \include{latexTemplate.tex}
+#+html_head_extra: <link rel="stylesheet" type="text/css" href="style.css" />
+
+
+* JohnCarter Gonzalez
+#+attr_html: :class mytable meta :rules all :border nil :cellspacing nil :cellpadding nil :frame nil
+#+attr_latex: :align c|c|c|c
+| [[mailto:johncarter@gonzalez.codes][johncarter@gonzalez.codes]] | [[www.linkedin.com/in/john-carter-gonzalez-a24486240][linkedin.com/in/johncartergonzalez]] | +1  (208) 210-6244 | Couer d'Alene, ID, USA |
+** Bio
+Software Engineer with Engineering Management experience and fundamental knowledge of software design, development, and testing. Seeking to utilize a broad educational background with excellent analytical, technical, and programming skills to thrive as a  Software Engineer.
+
+
+** Experience
+*** Costa Rica Refined
+#+attr_html: :class mytable exp :rules nil :border nil :cellspacing nil :cellpadding nil :frame nil
+#+attr_latex: :align L{0.27\textwidth}C{0.40\textwidth}R{0.25\textwidth}
+| *Lead Software Engineer*           | *Costa Rica Refined* | *Feb 2023 -- September 2023* |
+| Full Stack Application Development | Remote               | Ruby on Rails, PostgreSQL, Redis |
+- Promoted to lead a 3-member team when the current lead stepped away from the company.
+- Consistently employed best coding practices and OO design such as producer/consumer and factory/bot patterns on  Ruby on Rails development projects, which were deployed to production.
+- Coordinated Agile sprint efforts with a 3-member remote team to efficiently develop and produce applications while working in parallel with management to bring favorable returns on investments for the company.
+- Decreased software testing time by 50% by writing test scripts to alleviate testing bottlenecks caused by a large volume of tests.
+- Created, tested, and deployed Ruby on Rails applications to AWS and Render cloud deployment services.
+- Reduced load times by 60% by refactoring React code base into a native Hotwire, Stimulus.js, and ViewComponent frontend for a Ruby on Rails app.
+- Was offered and accepted an on-call role in an advisory capacity
+
+*** AFHC
+#+attr_html: :class mytable exp :rules nil :border nil :cellspacing nil :cellpadding nil :frame nil
+#+attr_latex: :align L{0.27\textwidth}C{0.40\textwidth}R{0.25\textwidth}
+| *Software Engineer* | *Adult Family Home Council* | *September 2023 -- Present* |
+| Backend Software Team | Remote/Contract |                        |
+- Website Refactor for http://adultfamilyhomecouncil.org.
+- Utilized WordPress and third-party API integrations such as Stripe and WooCommerce payment systems.
+- Created a new event system that allows for member/non-member pricing
+- Updated User registration system to use Stripe payment for new members while allowing for a backward compatible approach with existing customers
+- Rebuilt Document Library functionality to allow for 2-pronged approach: learning paths, and full-text index of search of documents and affiliated links
+- Rebuilt and improved existing integration with AIDA Healthcare APIs, creating an admin layer that allows the AFH to set/manage their account
+
+** Technical Skills (Professional Experience)
+- *Languages*  -- Python, Ruby, Javascript, Rust, SQL
+- *Frameworks* -- Rails.rb, Django.py, Axum.rs, Svelte.js, React.js
+- *Databases*  -- PostgreSQL, Redis, MongoDB, Cassandra
+- *Dev tools*  -- Git, Ansible, Jenkins, GitHub Actions, AWS, Render Cloud Services, Docker, Nix
+- *Operating Systems* -- NixOS (Daily Driver), Windows 10/11, Ubuntu, MacOS
+
+** Education/Certifications
+#+attr_html: :class mytable education :rules nil :border nil :cellspacing nil :cellpadding nil :frame nil
+#+attr_latex: :align L{0.27\textwidth}C{0.40\textwidth}R{0.25\textwidth}
+| *Web Development*                     | *Coding Dojo*              | *February 2022 -- November 2022* |
+| *Mechanical Engineering*  | *Montana State University* | *August 2014 -- July 2016*       |
+** Projects
+*** Turbo Rails Gem Clone
+Description: A replica of the turbo-rails gem, developed with a strategic purpose to gain an understanding of the inner workings of Hotwire.js technology. This project was undertaken to provide comprehensive insights to our business leadership, facilitating well-informed decisions. This project demonstrates proficiency in Ruby 3.2.2, Ruby on Rails 7.0.4, and ESM shims. In my personal capacity, I dedicated significant time to dissect the turbo-rails gem and comprehensively explore its implementation life-cycle. This project also utilizes Test Driven Development code with a 100% test coverage. This project also includes comprehensive installation and usage instructions, available on GitHub: Turbo Rails Gem Clone.
+
+
+*** myTorrent
+Description: myTorrent represents a BitTorrent client, a peer-to-peer protocol for file sharing, characterized by its utilization of the Bencode encoding. Bencode, a serialization format integral to the BitTorrent protocol, makes up the core functionality of this project. The project serves the dual purpose of addressing professional requirements and personal preferences, catering to server-based file-sharing needs. It encompasses crucial components, including HTTP tracking, BitTorrent Protocol, and pipelining. This project relies on Python 3.10.12, Pytest, and Pylint.. For further insights into myTorrent, please visit the project on GitHub: myTorrent.
+
+*** Tcp-Async-Tokio
+Description: Tcp-Async-Tokio, affectionately named the "Redis-lite" project, was conceptualized and developed as a result of an extensive professional engagement with Redis. The project's primary objective is to attain an advanced comprehension of TCP and the Redis protocol. It features the implementation of essential functions, such as the "Ping/Pong" request/response cycle, as well as echo and GET/SET response cycles. The project demonstrates a fusion of imperative and declarative coding styles, engineered in Rust. A commitment to coding principles is evident through a DRY (Don't Repeat Yourself) approach, rigorous 100% test-driven development (TDD), and adherence to Conventional Commit and Git strategies. This project depends on Rust,, and rustc 1.73.0 . For further details and exploration, please visit the project on GitHub: Tcp-Async-Tokio.
+
+** References
+| Business           | Contact       | Preferred Method of Contact    |
+|--------------------+---------------+--------------------------------|
+| Costa Rica Refined | Pascal Rey    | email: pascalrey1955@gmail.com |
+| AFHC               | Alec Williams | phone: (360) 485 3414          |
