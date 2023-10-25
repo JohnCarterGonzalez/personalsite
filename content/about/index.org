@@ -5,27 +5,26 @@
 Greetings, I'm JohnCarter Gonzalez, a predominantly self-taught software developer driven by a passion for constructing engaging, performant, and reliable systems.
 This website serves as an archive of my journey into grappling with complex concepts, all in the motivation of evolving into a more versatile engineer and a better human.
 
-I love job, but more importantly, I cherish the people I'm privileged to do life with. Life often assumes the role of an
+I love my job, but more importantly, I cherish the people I'm privileged to do life with. Life often assumes the role of an
 uncompromising mentor, and although not always the preferred one, it imparts invaluable lessons. I figure I can share some of these lessons, not because of some grand wisdom, but in the hope
 they help, you the reader, get to know me a little better. That's what this site is about, its not purely for an "online presence" for hiring, which is important but I have my resume on here for that.
-More specifically, it's an attempt to avoid what Maya Angelou called the greatest "agony", "bearing an untold story inside you." We all have stories, hardships, triumphs, failures and "wish-we-could-have-done-that-differently" moments
-but we continue on, not because we have to, we get to, the moments we live are finite and sometimes forgetable and the trick is take those small moments with the big ones and derive the implicit meaning from them. With that in mind, here
+More specifically, it's an attempt to avoid what Maya Angelou called the greatest "agony", "bearing an untold story inside you." We all have stories, hardships, triumphs, failures and "wish-we-could-have-done-that-differently" moments. We continue on, not because we have to, we get to, the moments we live are finite and sometimes forgetable. The trick is take those small moments with the big ones and derive the implicit meaning from them. With that in mind, here
 are some small lessons that have taught me a lot.
 
 Life Lesson 1: Seek a Purpose Beyond Yourself and Anchor Your Identity in It. As Inky Johnson, the motivational speaker, once posed to a youthful audience while discussing triumph over adversity,
 "What will you do when one day, you come up against something bigger than yourself?" The principle is straightforward yet profoundly influential. For me, transcending self-involved
 pursuits meant dedicating myself to serving others. For most of my life, I pursued excellence through sports, even earning a Division 1 football scholarship at Montana State University.
 However, this pursuit came at the expense of friendships and deeper family bonds. When my health prevented me from continuing in sports, I needed a new anchor. Today, I find fulfillment
-in helping others achieve their aspirations, spending time with my family, refining my professional skills, and optimizing the developer experience and workflow.
+in helping others achieve their aspirations, spending time with my family, refining my professional skills, and optimizing the developer experience, support tooling and workflow.
 
-Life Lesson 2: Whether 0.1% or 1%, What Matters is How You Chart Your Personal Growth. My journey as a developer is largely self-guided, and at the outset of my learning
-expedition, the mental hurdles of comprehending memory allocation, HTTP(s), builder patterns, and BigO notation led me to the medicine cabinet on countless late nights of
-unwavering determination. I had to realize that my struggles in self-improvement were signs of progress. I could and would persevere through the moments when a 2,000-line stack trace made no
-sense. Equality here doesn't equate to accepting subpar results. Instead, it's a pledge to my competitive spirit and a response to the onslaught of social media comparisons.
+Life Lesson 2: Whether 0.1% or 1% improve is still moving forward. What matters is how you chart your personal growth. My journey as a developer is largely self-guided, and at the outset of my learning
+expedition, the mental hurdles of comprehending memory allocation, HTTP(s), builder patterns, and BigO notation  led me to the Advil cabinet on a well-worn track built on late nights and perseverance.
+I had to realize that my struggles in self-improvement were signs of progress. I could and would persevere through the moments when a 2,000-line stack trace made no
+sense. Equality here doesn't equate to accepting subpar results. Instead, it's a referendum to my sometimes overly-competitive spirit and a response to social media comparisons.
 It's a declaration that I will achieve my goals, driven not solely by self-interest but by my commitment to my wife, family, and cherished friends.
 My work is gratifying because it allows me to pursue my passion while being of service and fulfilling my responsibilities to my family, my company, and my circle of friends. My implicit meaning is
-found in my service, in the people around me, and in the conviction that everyday moments give us the opportunity to become an everyday better person. I hope this post finds you well.
-Regards
+found in my service, in the people around me, and in the conviction that everyday moments give us the opportunity to become an everyday better person. I hope this post finds you well, and thank you for taking
+the time to read this, it means alot to me.
 
-( P.S. Despite what all the above may suggest, I really am not that serious of a person. Yet, in the moment of writing this, I can see no way to persuade you otherwise. Hopefully, this all doesn't sound
-too pedantic or derivative, if it does, oh well nothing is new under the sun. Cheers.)
+( P.S. Despite what all the above may suggest, I really am not that serious of a person. Yet, in the moment of writing this, I can see no way to persuade you otherwise, haha I agree it sounds like Edgar Allen Poe with his raven by the fire and their meanderings. Hopefully, this all doesn't sound
+too pedantic or derivative, if it does, I promise I will become a better writer some day haha. Cheers.)
