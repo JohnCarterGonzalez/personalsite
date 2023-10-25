@@ -16,7 +16,7 @@ title = "A Doxology"
 [author]
   name = "John Carter Gonzalez"
   image = "images/loom.png"
-  headline = "'Be gratefule, Juan Pablo, today is especially delicious.'"
+  headline = "'Be grateful, Juan Pablo, today is especially delicious.'"
   bio = "Husband, Developer"
   links = [
      { email = "johncarter@gonzalez.codes" },
