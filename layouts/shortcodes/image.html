@@ -1,0 +1,2 @@
+{{ $image := .Get "src" | absURL }}
+<img src="{{ $image }}" alt="{{ .Get "alt" }}" width="{{ .Get "width" }}" height="{{ .Get "height" }}">

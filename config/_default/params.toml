@@ -18,7 +18,7 @@ enableCodeCopy = true
 disableImageOptimization = true
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+# defaultFeaturedImage = "images/Background.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -36,11 +36,11 @@ disableImageOptimization = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "Background.png" # used in: hero, and card
+  homepageImage = "images/Background.png" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts"
+  showMoreLinkDest = "/pages"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -51,8 +51,8 @@ disableImageOptimization = true
   showLikes = false
   showDateUpdated = false
   showAuthor = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = true
@@ -61,6 +61,7 @@ disableImageOptimization = true
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = true
+  series = true
   showHeadingAnchors = false
   showPagination = true
   invertPagination = false

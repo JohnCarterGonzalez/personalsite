@@ -1,0 +1,14 @@
+#+title: Welcome
+#+author: JohnCarter Gonzalez
+#+topics: landing post
+
+
+
+
+Hey there, and welcome to my site!
+
+As a junior engineer eager to dive into the world of coding and technology, I've decided to document my journey through this digital landscape. You can expect a mix of my experiences, the 'Aha!' moments that light up my path, and yes, even the occasional head-scratching challenges that come my way.
+
+This blog is more than just a diary of my coding adventures; it's an open invitation to join me on this quest for knowledge and growth. I believe in the power of sharing and learning from the incredible tech community out there. So, grab your virtual coffee, get comfy, and let's embark on this coding odyssey together.
+
+We're in this together, unraveling the mysteries of the tech world, one blog post at a time.

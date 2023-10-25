@@ -1,0 +1,47 @@
+:CONFIG:
+#+hugo_base_dir: ../
+#+seq_todo: TODO DRAFT DONE
+#+options: creator:t
+#+property: header-args :eval never-export
+#+hugo_front_matter_key_replace: description>summary
+
+#+macro: updatetime {{{time(%B %e\, %Y)}}}
+:END:
+
+#+title: Blog Org Source File
+#+author: JohnCarter Gonzalez
+#+email: johncarter@gonzalez.codes
+
+
+* Table of Contents
+- [[#pages][Pages]]
+  - [[#about][About]]
+    - [[#about-this-site][About this site]]
+  - [[#contact][Contact]]
+  - [[#posts][Posts]]
+
+
+* Pages
+
+This section contains all the static pages.
+
+** TODO About
+:PROPERTIES:
+:export_hugo_section: about
+:export_hugo_weight: 06
+:export_file_name: _index
+:END:
+Hello
+
+** TODO Contact
+:PROPERTIES:
+:export_hugo_section: contact
+:export_hugo_weight: 05
+:export_file_name: _index
+:END:
+
+I have decided to close the comments form that used to be here, because the only messages I ever got through it were spam.
+
+If you want to reach me, please use your imagination (I'm not hard to find) or follow some of the social media icons above.
+
+** TODO Posts section
